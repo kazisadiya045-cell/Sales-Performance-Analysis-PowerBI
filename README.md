@@ -34,7 +34,7 @@ Businesses need clear insights into sales performance to make data-driven decisi
 - Invest more in high-profit categories like Technology.
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot]()
+![Dashboard Screenshot](ScreenshotDashboard.png)
 
 ## 🔗 Dashboard File
 The Power BI dashboard file (.pbix) is available in the Dashboard folder.
